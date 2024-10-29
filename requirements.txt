@@ -1,0 +1,6 @@
+textblob
+spacy
+readability-lxml
+matplotlib
+nltk
+textstat
