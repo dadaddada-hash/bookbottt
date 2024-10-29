@@ -1,5 +1,7 @@
 # BookBot - Text Analysis Bot
 
+(pls activate the venv and go tho the bookbott folder)
+
 BookBot is a Python tool that analyzes a `.txt` file and provides insights like text statistics, vocabulary richness, sentiment analysis, and readability scores.
 
 ## Features
